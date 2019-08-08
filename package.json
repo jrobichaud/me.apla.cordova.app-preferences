@@ -24,13 +24,13 @@
   },
   "dependencies": {
     "cordova-lib": "^9.0.0",
-    "elementtree": "^0.1.6",
+    "elementtree": "^0.1.7",
     "plist": "1.1.0",
     "q": "^1.4.1",
-    "xcode": "^0.8.2"
+    "xcode": "^2.0.0"
   },
   "devDependencies": {
-    "cordova": ">=5.4.1",
+    "cordova": "^9.0.0",
     "ios-sim": ">=5.0.5",
     "jasmine": "^2.3.2",
     "serve-me": "^0.8.2"
